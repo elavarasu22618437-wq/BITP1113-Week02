@@ -1,2 +1,8 @@
 # BITP1113-Week02
+
 BITP 1113 Programming Technique - Week 02 lab
+
+
+
+K R ELAVARASU A/L KUMARAN, B032610230, 1BITC S2G1
+
